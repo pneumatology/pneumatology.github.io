@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pneumatology.github.io/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-02T00:00:00+12:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -18,6 +18,27 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://pneumatology.github.io/"
+                />
+  </url><url>
+    <loc>https://pneumatology.github.io/p/living-water-of-truth/</loc>
+    <lastmod>2022-06-02T00:00:00+12:00</lastmod>
+  </url><url>
+    <loc>https://pneumatology.github.io/post/</loc>
+    <lastmod>2022-06-02T00:00:00+12:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://pneumatology.github.io/zh-cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://pneumatology.github.io/ar/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pneumatology.github.io/post/"
                 />
   </url><url>
     <loc>https://pneumatology.github.io/archives/</loc>
@@ -65,24 +86,6 @@
   </url><url>
     <loc>https://pneumatology.github.io/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pneumatology.github.io/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://pneumatology.github.io/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://pneumatology.github.io/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pneumatology.github.io/post/"
-                />
   </url><url>
     <loc>https://pneumatology.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
